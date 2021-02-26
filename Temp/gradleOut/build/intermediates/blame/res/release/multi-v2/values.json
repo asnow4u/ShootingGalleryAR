@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\asnow\\OneDrive\\Desktop\\Unity\\AR Target Practice\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\asnow\\.gradle\\caches\\transforms-2\\files-2.1\\aba6ea2dcc854d0b88e435bd0aa149c0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,360,461",
+                        "endColumns": "46,50,100,100,62",
+                        "endOffsets": "207,258,359,460,523"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,266,371",
+                        "endColumns": "50,54,104,104,66",
+                        "endOffsets": "101,156,261,366,433"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\asnow\\OneDrive\\Desktop\\Unity\\AR Target Practice\\Temp\\gradleOut\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "438",
+                        "endColumns": "55",
+                        "endOffsets": "489"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\asnow\\OneDrive\\Desktop\\Unity\\AR Target Practice\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "8,10,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "494,594,732",
+                        "endLines": "9,12,16",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "589,727,954"
+                    }
+                }
+            ]
+        }
+    ]
+}
